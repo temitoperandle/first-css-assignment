@@ -1,0 +1,3 @@
+[submodule "my-personal-webpage"]
+	path = my-personal-webpage
+	url = https://github.com/temitoperandle/my-personal-webpage.git
